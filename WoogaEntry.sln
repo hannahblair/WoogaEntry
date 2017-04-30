@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WoogaEntry", "WoogaEntry.csproj", "{2CC524BD-1524-99B4-9B1F-ADB4511DE71C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WoogaEntry.Editor", "WoogaEntry.Editor.csproj", "{A1584C07-F121-2A3D-74D0-05E92B0DF585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC524BD-1524-99B4-9B1F-ADB4511DE71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC524BD-1524-99B4-9B1F-ADB4511DE71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC524BD-1524-99B4-9B1F-ADB4511DE71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC524BD-1524-99B4-9B1F-ADB4511DE71C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1584C07-F121-2A3D-74D0-05E92B0DF585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1584C07-F121-2A3D-74D0-05E92B0DF585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1584C07-F121-2A3D-74D0-05E92B0DF585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1584C07-F121-2A3D-74D0-05E92B0DF585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
