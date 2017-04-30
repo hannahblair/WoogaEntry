@@ -1,5 +1,5 @@
 # WoogaEntry
-Early stage of a puzzle game to avoid the aliens and collect all the crystals. My first full Unity game - still learning, but this was so rewarding!
+Early stage of a puzzle game to avoid the aliens and collect all the crystals. My first full Unity game - still learning, but this was so rewarding! If files are missing, please let me know. 
 
 Entry as part of Wooga's fantastic expedition to UNITE in Amsterdam. 
 
